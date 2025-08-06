@@ -1,1 +1,0 @@
-# basket-of-scrapers
